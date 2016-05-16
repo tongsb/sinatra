@@ -15,7 +15,8 @@ Sinatra was designed and developed by Blake Mizerany in California.
 * **Simon Rozet**
 * **Katrina Owen**
 
-### Thanks
+### Thanks buddy
+
 
 Sinatra would not have been possible without strong company backing.
 In the past, financial and emotional support have been provided mainly by
